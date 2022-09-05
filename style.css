@@ -46,7 +46,7 @@
     color: aliceblue;
 }
 .background{
-    background-image: url("images/lap.jpg");
+    background-image: url("lap.jpg");
     /* background: rgba(0,0,0,0.7) url(""); */
     background-size: cover;
     background-blend-mode: darken;
